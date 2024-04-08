@@ -2,7 +2,6 @@
 
 
 <div>
- <img height="250em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmaiaf&layout=_count=8&theme=dracula">
 <img height="220em" src="https://github-readme-stats.vercel.app/api?username=pmaiaf&show_icons=true&theme=radical">
 
 </div>
